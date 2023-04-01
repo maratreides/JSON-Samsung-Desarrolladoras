@@ -1,0 +1,190 @@
+{
+    "Lista de supermercados": {
+        "Gadis": {
+            "geolocalicacion": {
+                "N": [56,32,10],
+                "E": [5,10,44]
+            },
+            "Productos por rutina": {
+                "Desayuno": {
+                    "Galletas": {
+                        "descripcion": "Galletas con cholotate y fibra",
+                        "marca": "Digestive",
+                        "unidadMedida": "Gramos",
+                        "medida": 300,
+                        "unidades": 16,
+                        "precioMedida": 0.01,
+                        "precio": 3.30,
+                        "precioUnidades": 0.21,
+                        "oferta": {
+                            "tipo": "10% en 2a unidad",
+                            "desde": "2023-04-04",
+                            "hasta": "Fin de existencias"
+                        }
+                    },
+                    "Yogures": {
+                        "descripcion": "Yogures naturales",
+                        "marca": "Marca blanca",
+                        "unidadMedida": "Gramos",
+                        "medida": 750,
+                        "unidades": 8,
+                        "precioMedida": 0.01,
+                        "precio": 1.05,
+                        "precioUnidades": 0.13,
+                        "oferta": {
+                            "tipo": "2x1",
+                            "desde": "2023-04-01",
+                            "hasta": "2022-04-10"
+                        }
+                    },
+                    "Cereales": {
+                        "descripcion": "Cereales con frutos del bosque",
+                        "marca": "Kellogs",
+                        "unidadMedida": "Gramos",
+                        "medida": 500,
+                        "unidades": "incontable",
+                        "precioMedida": 0.09,
+                        "precio": 4.75,
+                        "precioUnidades": "incontable",
+                        "oferta": {
+                            "tipo": "Sin oferta",
+                            "desde": "",
+                            "hasta": ""
+                        }
+                    }
+                },
+                "Comida": {
+                    "Pimientos": {
+                        "descripcion": "Pimientos de piquillo congelados",
+                        "marca": "Marca blanca",
+                        "unidadMedida": "Gramos",
+                        "medida": 150,
+                        "unidades": 4,
+                        "precioMedida": 0.01,
+                        "precio": 1.50,
+                        "precioUnidades": 0.38,
+                        "oferta": {
+                            "tipo": "30%",
+                            "desde": "2023-04-01",
+                            "hasta": "2022-04-03"
+                        }
+                    },
+                    "Agua": {
+                        "descripcion": "Garrafa de agua",
+                        "marca": "FontVella",
+                        "unidadMedida": "Litros",
+                        "medida": 5,
+                        "unidades": 1,
+                        "precioMedida": 0.40,
+                        "precio": 2.00,
+                        "precioUnidades": 2.00,
+                        "oferta": {
+                            "tipo": "Sin oferta",
+                            "desde": "",
+                            "hasta": ""
+                        }
+                    }
+                    }
+                }
+            }
+        },
+        "Froiz": {
+            "geolocalicacion": {
+                "N": [56,35,0],
+                "E": [5,12,41]
+            },
+            "Productos por rutina": {
+                "Merienda": {
+                    "Jamon": {
+                        "descripcion": "Jamon serrano para un buen bocadillo",
+                        "marca": "Marca blanca",
+                        "unidadMedida": "Gramos",
+                        "medida": 120,
+                        "unidades": 10,
+                        "precioMedida": 0.02,
+                        "precio": 2.35,
+                        "precioUnidades": 0.24,
+                        "oferta": {
+                            "tipo": "Sin oferta",
+                            "desde": "",
+                            "hasta": ""
+                        }
+                    }
+                },
+                "Cena": {
+                    "Pizza": {
+                        "descripcion": "Pizza precocida para una noche chula, con jamon y queso",
+                        "marca": "Terradellas",
+                        "unidadMedida": "Gramos",
+                        "medida": 250,
+                        "unidades": 2,
+                        "precioMedida": 0.02,
+                        "precio": 3.29,
+                        "precioUnidades": 1.64,
+                        "oferta": {
+                            "tipo": "10%",
+                            "desde": "2023-04-01",
+                            "hasta": "2022-04-08"
+                        }
+                    },
+                    "Infusion": {
+                        "descripcion": "Manzanilla",
+                        "marca": "Hornimans",
+                        "unidadMedida": "",
+                        "medida": "",
+                        "unidades": 20,
+                        "precioMedida": "",
+                        "precio": 1.20,
+                        "precioUnidades": 0.06,
+                        "oferta": {
+                            "tipo": "Sin oferta",
+                            "desde": "",
+                            "hasta": ""
+                        }
+                    }
+                    }
+                }
+        },
+
+        "Mercadona": {
+            "geolocalicacion": {
+                "N": [56,28,50],
+                "E": [5,13,44]
+            },
+            "Productos por rutina": {
+                "Brunch": {
+                    "Pan": {
+                        "descripcion": "Pan bimbo integral",
+                        "marca": "Marca blanca",
+                        "unidadMedida": "Gramos",
+                        "medida": 500,
+                        "unidades": 14,
+                        "precioMedida": 0.05,
+                        "precio": 2.27,
+                        "precioUnidades": 0.16,
+                        "oferta": {
+                            "tipo": "3x2",
+                            "desde": "2023-04-04",
+                            "hasta": "2023-04-06"
+                        }
+                    },
+                    "Barrita": {
+                        "descripcion": "Barrita energetica con chocolate",
+                        "marca": "Kellogs",
+                        "unidadMedida": "Gramos",
+                        "medida": 200,
+                        "unidades": 6,
+                        "precioMedida": 0.02,
+                        "precio": 4.05,
+                        "precioUnidades": 0.68,
+                        "oferta": {
+                            "tipo": "Sin oferta",
+                            "desde": "",
+                            "hasta": ""
+                        }
+                    }
+                }
+                }
+            }
+        }
+

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<listadeSupermercados>
+  <Gadis>
+    <localicacion>
+      <N>56</N>
+      <N>32</N>
+      <N>10</N>
+      <E>5</E>
+      <E>10</E>
+      <E>44</E>
+    </localicacion>
+    <productosporRutina>
+      <desayuno>
+        <galletas>
+          <descripcion>Galletas con cholotate y fibra</descripcion>
+          <marca>Digestive</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>300</medida>
+          <unidades>16</unidades>
+          <precioMedida>0.01</precioMedida>
+          <precio>3.30</precio>
+          <precioUnidades>0.21</precioUnidades>
+          <oferta>
+            <tipo>10% en 2a unidad</tipo>
+            <desde>2023-04-04</desde>
+            <hasta>Fin de existencias</hasta>
+          </oferta>
+        </galletas>
+        <yogures>
+          <descripcion>Yogures naturales</descripcion>
+          <marca>Marca blanca</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>750</medida>
+          <unidades>8</unidades>
+          <precioMedida>0.01</precioMedida>
+          <precio>1.05</precio>
+          <precioUnidades>0.13</precioUnidades>
+          <oferta>
+            <tipo>2x1</tipo>
+            <desde>2023-04-01</desde>
+            <hasta>2022-04-10</hasta>
+          </oferta>
+        </yogures>
+        <cereales>
+          <descripcion>Cereales con frutos del bosque</descripcion>
+          <marca>Kellogs</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>500</medida>
+          <unidades>incontable</unidades>
+          <precioMedida>0.09</precioMedida>
+          <precio>4.75</precio>
+          <precioUnidades>incontable</precioUnidades>
+          <oferta>
+            <tipo>Sin oferta</tipo>
+            <desde></desde>
+            <hasta></hasta>
+          </oferta>
+        </cereales>
+      </desayuno>
+        <comida>
+        <pimientos>
+          <descripcion>Pimientos de piquillo congelados</descripcion>
+          <marca>Marca blanca</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>150</medida>
+          <unidades>4</unidades>
+          <precioMedida>0.01</precioMedida>
+          <precio>1.50</precio>
+          <precioUnidades>0.38</precioUnidades>
+          <oferta>
+            <tipo>30%</tipo>
+            <desde>2023-04-01</desde>
+            <hasta>2022-04-03</hasta>
+          </oferta>
+        </pimientos>
+        <agua>
+          <descripcion>Garrafa de agua</descripcion>
+          <marca>FontVella</marca>
+          <unidadMedida>Litros</unidadMedida>
+          <medida>5</medida>
+          <unidades>1</unidades>
+          <precioMedida>0.40</precioMedida>
+          <precio>2.00</precio>
+          <precioUnidades>2.00</precioUnidades>
+          <oferta>
+            <tipo>Sin oferta</tipo>
+            <desde></desde>
+            <hasta></hasta>
+          </oferta>
+        </agua>
+        </comida>
+   </productosporRutina>
+  </Gadis>
+  <Froiz>
+    <localicacion>
+      <N>56</N>
+      <N>35</N>
+      <N>0</N>
+      <E>5</E>
+      <E>12</E>
+      <E>41</E>
+    </localicacion>
+    <productosporRutina>
+      <merienda>
+        <jamon>
+          <descripcion>Jamon serrano para un buen bocadillo</descripcion>
+          <marca>Marca blanca</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>120</medida>
+          <unidades>10</unidades>
+          <precioMedida>0.02</precioMedida>
+          <precio>2.35</precio>
+          <precioUnidades>0.24</precioUnidades>
+          <oferta>
+            <tipo>Sin oferta</tipo>
+            <desde></desde>
+            <hasta></hasta>
+          </oferta>
+        </jamon>
+      </merienda>
+        <cena>
+        <pizza>
+          <descripcion>Pizza precocida para una noche chula, con jamon y queso</descripcion>
+          <marca>Terradellas</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>250</medida>
+          <unidades>2</unidades>
+          <precioMedida>0.02</precioMedida>
+          <precio>3.29</precio>
+          <precioUnidades>1.64</precioUnidades>
+          <oferta>
+            <tipo>10%</tipo>
+            <desde>2023-04-01</desde>
+            <hasta>2022-04-08</hasta>
+          </oferta>
+        </pimientos>
+        <infusion>
+          <descripcion>Manzanilla</descripcion>
+          <marca>Hornimans</marca>
+          <unidadMedida></unidadMedida>
+          <medida></medida>
+          <unidades>20</unidades>
+          <precioMedida></precioMedida>
+          <precio>1.20</precio>
+          <precioUnidades>0.06</precioUnidades>
+          <oferta>
+            <tipo>Sin oferta</tipo>
+            <desde></desde>
+            <hasta></hasta>
+          </oferta>
+        </agua>
+        </cena>    
+   </productosporRutina>
+  </Froiz>
+    <Mercadona>
+    <localicacion>
+      <N>56</N>
+      <N>28</N>
+      <N>50</N>
+      <E>5</E>
+      <E>13</E>
+      <E>44</E>
+    </localicacion>
+    <productosporRutina>
+      <brunch>
+        <pan>
+          <descripcion>Pan bimbo integral</descripcion>
+          <marca>Marca blanca</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>500</medida>
+          <unidades>14</unidades>
+          <precioMedida>0.05</precioMedida>
+          <precio>2.27</precio>
+          <precioUnidades>0.16</precioUnidades>
+          <oferta>
+            <tipo>3x2</tipo>
+            <desde>2023-04-04</desde>
+            <hasta>2023-04-06</hasta>
+          </oferta>
+        </pan>
+        <barrita>
+          <descripcion>Barrita energetica con chocolate</descripcion>
+          <marca>Kellogs</marca>
+          <unidadMedida>Gramos</unidadMedida>
+          <medida>200</medida>
+          <unidades>6</unidades>
+          <precioMedida>0.02</precioMedida>
+          <precio>4.05</precio>
+          <precioUnidades>0.68</precioUnidades>
+          <oferta>
+            <tipo>Sin oferta</tipo>
+            <desde></desde>
+            <hasta></hasta>
+          </oferta>
+        </barrita>
+      </brunch>
+   </productosporRutina>
+  </Mercadona>
